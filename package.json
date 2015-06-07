@@ -1,0 +1,17 @@
+{
+  "name": "koa-sitify",
+  "description": "Load Site Route Configurations",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Ryan Johnston <ryan@mediapixel.co.nz>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Firetrust/koa-sitify.git"
+  },
+  "dependencies": {
+    "co-render": "^0.1.0",
+    "debug": "*",
+    "jade": "^1.10.0",
+    "koa-route": "^2.4.1"
+  }
+}
