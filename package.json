@@ -2,7 +2,6 @@
   "name": "koa-sitify",
   "description": "Load Site Route Configurations",
   "version": "1.0.0",
-  "private": true,
   "author": "Ryan Johnston <ryan@mediapixel.co.nz>",
   "repository": {
     "type": "git",
