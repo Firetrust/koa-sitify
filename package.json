@@ -10,7 +10,7 @@
   "dependencies": {
     "co-render": "^0.1.0",
     "debug": "*",
-    "jade": "^1.10.0",
-    "koa-route": "^2.4.1"
+    "koa-route": "^2.4.1",
+    "pug": "^2.0.0-alpha6"
   }
 }
