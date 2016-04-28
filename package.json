@@ -8,9 +8,9 @@
     "url": "https://github.com/Firetrust/koa-sitify.git"
   },
   "dependencies": {
-    "co-render": "^0.1.0",
+    "co-render": "^1.1.0",
     "debug": "*",
-    "koa-route": "^2.4.1",
+    "koa-route": "^2.4.2",
     "pug": "^2.0.0-alpha6"
   }
 }
