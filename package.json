@@ -11,6 +11,6 @@
     "co-render": "^1.1.0",
     "debug": "*",
     "koa-route": "^2.4.2",
-    "pug": "^2.0.0-alpha6"
+    "pug": "^2.0.0-alpha7"
   }
 }
