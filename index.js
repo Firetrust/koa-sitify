@@ -102,7 +102,7 @@ function route(app, dir, routes) {
  */
 
 function view(dir, file) {
-  var template = path.resolve(dir, file + '.jade');
+  var template = path.resolve(dir, file + '.pug');
   if (!fs.existsSync(template)) throw new Error(dir + ': template' + file + ' does not exist.');
 
   return function *view() {
